@@ -32,6 +32,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := "google/crosshatch/crosshatch:10/QQ2A.200405.005/6254899:user/release-keys"
 
-DU_BUILD_TYPE := OFFICIAL
-
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
